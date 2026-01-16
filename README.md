@@ -1,20 +1,21 @@
-## Hello, I'm Nur Fathiah
+# Hello, I'm Nur Fathiah
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-fathiah-a610721b6)
 
-## Introduction 
+# Introduction 
 
-I am a Building Surveying graduate with a growing passion for Data Analysis. I am eager to apply my analytical skills to extract insights and make data-driven decisions.
+Welcome to my Data Analysis Portfolio! I am a Building Surveying graduate with a growing passion for data analysis, dedicated to transforming raw data into actionable insights.  
 
-Currently, I am focusing on developing my skills in Data Visualization, using Excel and Power BI, and learning new tools to strengthen my capabilities as a future Data Analyst.
+In this portfolio, you will find projects demonstrating my expertise in data cleaning, analysis, and visualization, as well as my ability to solve real-world problems using data-driven approaches. I am continuously developing my skills to contribute effectively as a future Data Analyst.
 
-I am enthusiastic about transitioning into the field of data analytics and contributing to projects that turn data into actionable insights.
+## Table of Contents
 
-## Skills
+1. [Project 1: Name](#project-1-name)  
+   Short description of the project.
 
-| Skill                                                    |   Associated Project           |
-|----------------------------------------------------------|--------------------------------|
-| Data cleaning and Data visualization                     |                                |
+---
 
-
-
+## Project 1: Name
+**Description:** Brief description of the project.  
+**Techniques / Tools:** List of skills/tools used.  
+**Link / File:** [Link to project file or live demo](#)
 
