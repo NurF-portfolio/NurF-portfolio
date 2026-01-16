@@ -9,23 +9,8 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 
 ## Table of Contents
 
-- [Project 1: Cafe sales data analysis](https://github.com/NurF-portfolio/Cafe-Sales)
-
-   Short description of the project.
-
----
-
-## Project 1: Name
-**Description:** Brief description of the project.  
-**Techniques / Tools:** List of skills/tools used.  
-**Link / File:** [Link to project file or live demo](#)
-
-# My Portfolio Projects
-
-## Table of Contents
-
 - [Project 1: Cafe Sales Data Analysis](#project-1-cafe-sales-data-analysis)
-- [Project 2: [Project 2 Name]](#project-2-project-2-name)
+
 
 ---
 
@@ -36,8 +21,4 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 
 ---
 
-## Project 2: [Project 2 Name]
-**Description:** Brief description of the project.  
-**Techniques / Tools:** List of skills/tools used  
-**Link / File:** [GitHub Repository](#) | [Additional Files / Demo](#)
 
