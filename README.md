@@ -14,7 +14,7 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 
 ---
 
-## Project 1: Cafe Sales Data Analysis
+## [Project 1: Cafe Sales Data Analysis](https://github.com/NurF-portfolio/Cafe-Sales)
 **Description:** This project focuses on cleaning and analyzing dirty café sales data sourced from a dataset on Kaggle. The data was processed using Microsoft Excel for data cleaning and subsequently visualized using Power BI. The main objective of this project is to ensure data quality and to present meaningful insights through effective data visualization. 
 
 **Techniques / Tools:** Excel, Power BI, Data Cleaning, Dashboard Visualization  
