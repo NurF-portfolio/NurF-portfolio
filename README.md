@@ -20,7 +20,11 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 
 **Techniques / Tools:** Excel, Power BI, Data Cleaning, Dashboard Visualization  
 
-**Link / File:** [GitHub Repository](https://github.com/NurF-portfolio/Cafe-Sales) | [Dashboard Screenshots]([reports/dashboard/)](reports/dashboard)
+**Link / File:** [GitHub Repository](https://github.com/NurF-portfolio/Cafe-Sales) 
+
+![Dashboard Screenshots](https://github.com/NurF-portfolio/Cafe-Sales/blob/a6e52c11053acc0a9847779c2c817bcc66cc7774/reports/dashboard/Cafe%20Sales%20Dashboard.png)
+
+![Dashboard Screenshots](https://github.com/NurF-portfolio/Cafe-Sales/blob/a6e52c11053acc0a9847779c2c817bcc66cc7774/reports/dashboard/Error%20Analysis%20Cafe%20Sales%20Dashboard.png)
 
 ---
 ## [Project 2: Healthcare Dataset Analysis](https://github.com/NurF-portfolio/Healthcare-Dataset)
@@ -28,6 +32,9 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 
 **Techniques / Tools:** Python, Google Colab, Power BI, Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Visualization
 
-**Link / File:** [GitHub Repository](https://github.com/NurF-portfolio/Healthcare-Dataset) | [Dashboard Screenshots](Reports)
+**Link / File:** [GitHub Repository](https://github.com/NurF-portfolio/Healthcare-Dataset) 
+![Dashboard Screenshots](https://github.com/NurF-portfolio/Healthcare-Dataset/blob/98dc840a1b845f728954ab012210b499171a132b/Reports/Healthcare%20Data%20Analysis%20Dashboard.PNG)
+
+![Dashboard Screenshots](https://github.com/NurF-portfolio/Healthcare-Dataset/blob/98dc840a1b845f728954ab012210b499171a132b/Reports/Healthcare%20Data%20Sales%20Dashboard.PNG)
 
 ---
