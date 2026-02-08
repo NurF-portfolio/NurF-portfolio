@@ -10,6 +10,7 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 ## Table of Contents
 
 - [Project 1: Cafe Sales Data Analysis](#project-1-cafe-sales-data-analysis)
+- [Project 2: Healthcare Dataset Analysis](#project-2-Healthcare-Dataset-Analysis)
 
 
 ---
@@ -21,5 +22,10 @@ In this portfolio, you will find projects demonstrating my expertise in data cle
 **Link / File:** [GitHub Repository](https://github.com/NurF-portfolio/Cafe-Sales) | [Dashboard Screenshots](reports/dashboard/)
 
 ---
+## [Project 2: Healthcare Dataset Analysis](https://github.com/NurF-portfolio/Healthcare-Dataset)
+**Description:** This project focuses on cleaning, analyzing, and visualizing a healthcare dataset sourced from Kaggle. Python and Google Colab were used for data cleaning and exploratory data analysis (EDA), while Power BI was utilized for data visualization. The project aims to ensure high data quality and deliver meaningful insights through clear and effective visualizations.
 
+**Techniques / Tools:** Python, Google Colab, Power BI, Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Visualization 
+**Link / File:** [GitHub Repository](https://github.com/NurF-portfolio/Healthcare-Dataset) | [Dashboard Screenshots](Reports)
 
+---
